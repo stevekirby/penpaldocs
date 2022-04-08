@@ -18,7 +18,11 @@ Let's look at the different parts of the Penpal panel:
 
 {% hint style="warning" %}
 If you **double-click** on a point or tangent in the canvas, a pop-up dialog will show you the exact co-ordinates for that element, and you can enter your own values to change it. These values are dependent on which [Space](spaces.md) you currently have active.
+
+Note that if a tangent is zero'd it will be in exactly the same place as the point, so when you double-click on a point with a zero'd tangent, you will see and edit the values for either the point **or** the tangent depending on which tab is active: the point - in the points tab; or the tangent - in the tangents tab.
 {% endhint %}
+
+
 
 [**Context menu**](context-menu.md) - the context menu is shown when you right-click within the canvas.
 
