@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Hello](<README (1).md>)
+* [Introduction](<README (1).md>)
 * [How it works](how-it-works.md)
 * [The Panel](the-panel.md)
 * [Spaces](spaces.md)
