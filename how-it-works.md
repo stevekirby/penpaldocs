@@ -8,7 +8,7 @@ You cannot drag elements in the Penpal panel (e.g points) to move them, as you c
 
 ## Loading Paths into Penpal
 
-If you have a layer with one or more paths selected when you first open the Penpal panel, it will automatically load those paths. If not, select the layers or paths you want to edit, and click the ![](.gitbook/assets/reload.svg) **reload** button. At any time, you can also **double-click** in an empty part of the canvas to **load** or **reload** paths.
+If you have a layer with one or more paths selected when you first open the Penpal panel, it will automatically load those paths. If not, select the layers or paths you want to edit, and click the <img src=".gitbook/assets/reload.svg" alt="" data-size="line"> **reload** button. At any time, you can also **double-click** in an empty part of the canvas to **load** or **reload** paths.
 
 Penpal can work with multiple paths at the same time. It will load whichever paths or layers you have selected in After Effects' timeline. If you have several layers selected, it will load all the paths and masks on those layers. If you want to target specific paths, you can select them by `Cmd/Ctrl`-clicking on the Path properties in the timeline, one-by-one.
 

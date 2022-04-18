@@ -2,7 +2,7 @@
 
 ## Tabs
 
-There are three tabs at the top of the panel, denoted by symbols: ![](<.gitbook/assets/tabs - paths.svg>)Paths, ![](<.gitbook/assets/tabs - points.svg>)Points and ![](<.gitbook/assets/tabs - tangents.svg>)Tangents. Clicking on these tabs displays different groups of buttons, and highlights the relevant elements in the canvas. [Path functions](path-tab.md) affect the path as a whole - it will maintain it’s proportions and essential shape. [Point functions](points-tab.md) affect the points within one or more shapes. [Tangent functions](tangents-tab.md) affect the tangents.
+There are three tabs at the top of the panel, denoted by symbols: <img src=".gitbook/assets/tabs - paths.svg" alt="" data-size="line">Paths, <img src=".gitbook/assets/tabs - points.svg" alt="" data-size="line">Points and <img src=".gitbook/assets/tabs - tangents.svg" alt="" data-size="line">Tangents. Clicking on these tabs displays different groups of buttons, and highlights the relevant elements in the canvas. [Path functions](path-tab.md) affect the path as a whole - it will maintain it’s proportions and essential shape. [Point functions](points-tab.md) affect the points within one or more shapes. [Tangent functions](tangents-tab.md) affect the tangents.
 
 ## Selections
 

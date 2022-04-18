@@ -6,11 +6,11 @@
 
 The **Spaces button** shows the active space. When you hover over it, a dropdown allows you to activate a different space.
 
-![](<.gitbook/assets/space - comp.svg>) **Comp space** shows your paths as they appear in the composition panel in After Effects, with all the positioning, scaling, rotating, skewing, and other transformations that are affecting them.
+<img src=".gitbook/assets/space - comp.svg" alt="" data-size="line"> **Comp space** shows your paths as they appear in the composition panel in After Effects, with all the positioning, scaling, rotating, skewing, and other transformations that are affecting them.
 
-![](<.gitbook/assets/space - layer.svg>) **Layer space** shows paths as if you were ‘inside’ the layer they are a part of. So if that layer is rotated, your space is rotated along with it, and the left side of the _layer_ will be shown in Penpal as the left side of the _canvas_.
+<img src=".gitbook/assets/space - layer.svg" alt="" data-size="line"> **Layer space** shows paths as if you were ‘inside’ the layer they are a part of. So if that layer is rotated, your space is rotated along with it, and the left side of the _layer_ will be shown in Penpal as the left side of the _canvas_.
 
-![](<.gitbook/assets/space - local.svg>) **Local space** shows paths as they 'really are', without **any** of the distortions that are applied to either their layer or any shape groups they are inside.
+<img src=".gitbook/assets/space - local.svg" alt="" data-size="line"> **Local space** shows paths as they 'really are', without **any** of the distortions that are applied to either their layer or any shape groups they are inside.
 
 ![](.gitbook/assets/spaces3.png)
 
