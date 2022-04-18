@@ -1,8 +1,8 @@
-# Introduction
+# Hello
 
 {% embed url="https://www.youtube.com/watch?v=pzkfQFrfIzs&t" %}
 
-Penpal is an old extension for Adobe After Effects that enables additional editing capabilities for paths, points and tangents. It works with both shape layer paths and mask paths.
+Penpal is an extension for Adobe After Effects that enables additional editing capabilities for paths, points and tangents. It works with both shape layer paths and mask paths.
 
 {% hint style="warning" %}
 Points are sometimes called vertices, and tangents are sometimes called direction handles or direction lines. We always refer to them as points and tangents.
