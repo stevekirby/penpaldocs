@@ -2,15 +2,15 @@
 
 ![](.gitbook/assets/pointstab.png)
 
-The first eight functions in the points tab all move points into a line, and correspond to typical Adobe **align and distribute** panels found in Creative Cloud applications.
+#### <img src=".gitbook/assets/points - up.svg" alt="" data-size="line">Move up,<img src=".gitbook/assets/points - down.svg" alt="" data-size="line"> Move down, <img src=".gitbook/assets/points - left.svg" alt="" data-size="line">Move left, <img src=".gitbook/assets/points - right.svg" alt="" data-size="line">Move right
+
+These buttons move selected points by 1px, or 10px if you hold `Shift`
 
 {% hint style="warning" %}
 Bear in mind that move, align, distribute and snap functions will behave parallel to the X and Y axes of whichever Space is active - composition, layer or shapes' parent group.
 {% endhint %}
 
-#### <img src=".gitbook/assets/points - up.svg" alt="" data-size="line">Move up,<img src=".gitbook/assets/points - down.svg" alt="" data-size="line"> Move down, <img src=".gitbook/assets/points - left.svg" alt="" data-size="line">Move left, <img src=".gitbook/assets/points - right.svg" alt="" data-size="line">Move right
-
-These buttons move selected points by 1px, or 10px if you hold `Shift`
+The next eight functions in the points tab all move points into a line, and correspond to typical Adobe **align and distribute** panels found in Creative Cloud applications.
 
 #### <img src=".gitbook/assets/points - alignH.svg" alt="" data-size="line"> Align horizontal
 
@@ -43,6 +43,10 @@ This will distribute the selected points at even spaces between the leftmost and
 #### <img src=".gitbook/assets/points - distributeV.svg" alt="" data-size="line"> Distribute vertically
 
 This will distribute the selected points at even spaces between the topmost and bottommost points. Requires at least three points to be selected.
+
+#### <img src=".gitbook/assets/points - mirrorX.svg" alt="" data-size="line"> Mirror points on the X axis, ![](<.gitbook/assets/points - mirrorY.svg>) Mirror points on the Y axis
+
+The mirror buttons require an open path with either the first or last point selected. They will then mirror the shape, around that point, and join it at the other end.
 
 #### <img src=".gitbook/assets/points - setSnap.svg" alt="" data-size="line"> Set Snap value
 
