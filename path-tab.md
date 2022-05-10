@@ -1,11 +1,11 @@
 # Paths tab
 
-![](.gitbook/assets/pathstab.png)
+![](<.gitbook/assets/pathstab (1).png>)
 
 The functions in the Paths tab tend to affect the shape as a whole, rather than it’s individual points. Most of these functions can’t be accurately performed with After Effects’ native toolset.
 
 {% hint style="warning" %}
-When we refer to a path’s **bounding box** we mean the rectangle formed by it’s outermost parts - which can be seen in After Effects if you select a path property and then tap Cmd/Ctrl + T to enable Free Transform mode.
+When we refer to a path’s **bounding box** we mean the rectangle formed by it’s outermost visible parts. Be aware that when you use the native After Effects `Layer > Mask and Shape Path > Free Transform Points` command, the bounding box it gives you can be 'wrong' if your tangent handles extend outside the rest of the shape.
 {% endhint %}
 
 #### <img src=".gitbook/assets/paths - center.svg" alt="" data-size="line"> Center

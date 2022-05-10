@@ -1,10 +1,14 @@
 # Tangents tab
 
-![](.gitbook/assets/tangentsstab.png)
+![](<.gitbook/assets/tangentsstab (1).png>)
 
 {% hint style="warning" %}
 When dealing with tangents, remember that even a ‘zero’ tangent, is treated by Penpal as a selectable element. If you drag a marquee selection over a point with zero tangents, you’ll be selecting both tangents.
 {% endhint %}
+
+#### <img src=".gitbook/assets/points - up.svg" alt="" data-size="line">Move up,<img src=".gitbook/assets/points - down.svg" alt="" data-size="line"> Move down, <img src=".gitbook/assets/points - left.svg" alt="" data-size="line">Move left, <img src=".gitbook/assets/points - right.svg" alt="" data-size="line">Move right
+
+These buttons move selected tangents by 1px, or 10px if you hold `Shift`
 
 #### <img src=".gitbook/assets/tangents - copy.svg" alt="" data-size="line"> Copy
 
