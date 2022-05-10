@@ -55,7 +55,7 @@ The mirror buttons require an open path with either the first or last point sele
 You can use this button to quickly open a closed path between two points. Select two consecutive points, click the button, and the path will be opened at that segment.
 
 {% hint style="info" %}
-Unlike the similar button in the Paths tab, this button opens the path _between selected points_, instead of always doing so at the first vertex. Using this button can alter the first vertex.
+Unlike the [similar button in the Paths tab](path-tab.md#toggle-open), this button opens the path _between selected points_, instead of always doing so at the first vertex. Using this button can alter the first vertex.
 {% endhint %}
 
 If you select a path that is already open and click this button, it will simply be closed.
